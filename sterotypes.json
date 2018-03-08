@@ -1,0 +1,38 @@
+[
+    {
+        "name": "POLITICAL PERSON",
+        "desc": "force beliefs on others"
+    },
+    {         
+        "name": "DOCTOR",         
+        "desc": "give medical advice to others"
+         },
+    {         
+        "name": "EMO",         
+        "desc": "hate the world"     
+    },
+    {         
+        "name": "GAMER",         
+        "desc": "hide in my room all day every day"     
+    },
+    {         
+        "name": "PROGRAMMER",         
+        "desc": "hack into everything to do anything, and also do black magic"     
+    },
+    {         
+        "name": "ARTIST",         
+        "desc": "live in an apartment and travel the world"     
+    },
+    {   
+        "name": "PERSON WHO LIVES IN ZOINSVILLE",         
+        "desc": "be rich"
+    },
+    {   
+        "name": "BRITISH PERSON",
+        "desc": "drink tea and say \"'Ello mate!\""
+    },
+    {   
+        "name": "TEACHER",
+        "desc": "so I must say \"do you have your homework\""     
+    }
+]
